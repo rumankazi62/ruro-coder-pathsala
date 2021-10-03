@@ -1,0 +1,30 @@
+.footer-container {
+  background-color: darkslateblue;
+  color: white;
+  width: 100%;
+  padding: 20px;
+  bottom: 0px;
+  position: static;
+}
+.list-item {
+  list-style: none;
+  left: 0;
+}
+.list-item li {
+  padding-bottom: 15px;
+  cursor: pointer;
+  text-align: left;
+}
+.list-item li:hover {
+  color: lightseagreen;
+}
+.col h5 {
+  text-align: left;
+  padding-bottom: 10px;
+}
+.detail {
+  text-align: left;
+}
+.nav-item {
+  text-align: left;
+}
