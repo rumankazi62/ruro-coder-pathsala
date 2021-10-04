@@ -63,4 +63,32 @@ const myData = [
     price: '2750৳',
     instructorName: 'Sumit Saha'
   }
+];
+
+const people = [
+  {
+    id:1,
+    img: 'https://images.gr-assets.com/authors/1456905354p8/15050617.jpg' ,
+    name: 'Jhankar Mahbub',
+  },
+  {
+    id:2,
+    img: 'https://i.playboard.app/p/AATXAJznXk5D3nZelL2713AQOAQp6Mt2QtX3LL8AIeZa4w/default.jpg' ,
+    name: 'Anisul Islam',
+  },
+  {
+    id:3,
+    img: 'https://jsbangladesh.com/wp-content/uploads/2021/05/Sumit-Saha.jpg' ,
+    name: 'Sumit Saha',
+  },
+  {
+    id:4,
+    img: 'https://avatars.githubusercontent.com/u/34616507?v=4?s=400' ,
+    name: 'Saidur Rahman Setu',
+  },
+  {
+    id:5,
+    img: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png' ,
+    name: 'Ruman Kazi',
+  }
 ]

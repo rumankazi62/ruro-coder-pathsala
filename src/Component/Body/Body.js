@@ -12,7 +12,7 @@ const Body = () => {
   return (
     <div className="row">
       {
-        courses.map(course => <BodyDetails course={course}></BodyDetails>)
+        courses.map(course => <BodyDetails key={course.id} course={course}></BodyDetails>)
       }
       <Link to="/service">
         <button className="btn btn-outline-info mb-3" type="submit">Details</button>
