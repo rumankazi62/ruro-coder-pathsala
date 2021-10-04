@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# RuRo Coder Pathsala online education
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [RuRo Coder Pathsala live link](https://ruro-coder-pathsala.netlify.app/).
+
+## Why you use this website
+
+# Why use our website? This question may come to your mind. Through this website, you will find solutions to various issues of programming. You can find some of the best programmer courses in the country on our website. So start your new journey today.
 
 ## Available Scripts
 
